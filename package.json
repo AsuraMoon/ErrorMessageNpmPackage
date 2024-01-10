@@ -1,0 +1,12 @@
+{
+  "name": "@asuramoon/errormessage",
+  "version": "1.0.0",
+  "description": "errormessageHRNET",
+  "main": "src/ErrorMessage.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
